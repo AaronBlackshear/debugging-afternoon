@@ -1,0 +1,11 @@
+{
+  "name": "debugging-afternoon",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/AaronBlackshear/debugging-afternoon.git",
+  "author": "Aaron Blackshear <theshiftybapple@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "redux": "^3.7.2"
+  }
+}
